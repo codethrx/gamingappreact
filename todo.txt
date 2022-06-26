@@ -1,0 +1,9 @@
+1. ❌ Set up redux and check whether redux is accessing values or not.
+2. ❌ Creating a folder for getting data via axios. 
+3.❌ Get a games data -
+❌popular  
+❌new 
+❌upcoming
+4. ❌ View a single game data via modal
+5. ❌ Search for game via input
+6. ❌ Animation and good stuff 🤟
